@@ -5,7 +5,7 @@ POST api/Inquire/GetInvoiceIDList
 ```
 <font color="red">Please use the new test location to test API。</font>
 
-[Sending Data Description](GetInvoiceIDList.html)
+[Sending Data Description](inquiry-authorization-invoice-track-and-period-number.html)
 
 ### Upload the blank invoice number
 ```
